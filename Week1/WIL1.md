@@ -1,7 +1,7 @@
 ## <웹 개발 입문 스터디 1주차 WIL>
 
 ### 이번주 스터디 목표
-Git dhk GitHubdp eogotj dkfdkqhwk!
+Git과 GitHub에 대해서 배워보자!
 
 ### 오늘의 키워드
 Git, GitHub, Local, commit, add
